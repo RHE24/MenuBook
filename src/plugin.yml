@@ -1,0 +1,12 @@
+name: MenuBook
+main: nl.itsjustbjarn.MenuBook.MenuBook
+version: 1.0
+author: ItsJustBjarn
+permissions:
+    MenuBook.get:
+        default: op
+        description: Get the menu book
+commands:
+  menubook:
+    description: Used to acquire a menu
+    usage: /<command>

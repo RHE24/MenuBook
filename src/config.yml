@@ -1,0 +1,9 @@
+global:
+  invTitle: '&4Menu'
+item:
+  type: BOOK
+  title: '&4Menu'
+commands:
+  EMERALD_BLOCK:
+    command: list
+    title: '&2Show online people'

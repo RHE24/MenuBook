@@ -1,0 +1,19 @@
+global:
+  invTitle: '&4AdminPanel'
+item:
+  type: WRITTEN_BOOK
+  title: '&4Admin Menu'
+  lore:
+commands:
+  76:
+    command: time set day
+    title: '&4Turn time &6Day'
+  75:
+    command: time set 16000
+    title: '&4Turn time &9Night'
+  REDSTONE_BLOCK:
+    command: stop
+    title: '&4Stop the server'
+  DIAMOND:
+    command: gamemode 1
+    title: '&2Creative Mode'
